@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DogHouse.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dog House0000" x="0" y="0" width="345" height="378" frameX="-8" frameY="0" frameWidth="361" frameHeight="378"/>
+	<SubTexture name="Dog House0001" x="0" y="0" width="345" height="378" frameX="-8" frameY="0" frameWidth="361" frameHeight="378"/>
+	<SubTexture name="Dog House0002" x="345" y="0" width="351" height="376" frameX="-5" frameY="-2" frameWidth="361" frameHeight="378"/>
+	<SubTexture name="Dog House0003" x="345" y="0" width="351" height="376" frameX="-5" frameY="-2" frameWidth="361" frameHeight="378"/>
+	<SubTexture name="Dog House0004" x="0" y="378" width="361" height="372" frameX="0" frameY="-6" frameWidth="361" frameHeight="378"/>
+	<SubTexture name="Dog House0005" x="345" y="0" width="351" height="376" frameX="-5" frameY="-2" frameWidth="361" frameHeight="378"/>
+	<SubTexture name="Dog House0006" x="345" y="0" width="351" height="376" frameX="-5" frameY="-2" frameWidth="361" frameHeight="378"/>
+	<SubTexture name="Dog House0007" x="0" y="0" width="345" height="378" frameX="-8" frameY="0" frameWidth="361" frameHeight="378"/>
+	<SubTexture name="Dog House0008" x="0" y="0" width="345" height="378" frameX="-8" frameY="0" frameWidth="361" frameHeight="378"/>
+</TextureAtlas>

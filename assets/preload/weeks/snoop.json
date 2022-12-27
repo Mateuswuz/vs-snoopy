@@ -1,0 +1,31 @@
+{
+	"storyName": "GOOD Ol' Charlie Brown",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Good Ol Charlie",
+			"snoopy",
+			[
+				255,
+				253,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "DOGG"
+}
